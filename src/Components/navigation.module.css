@@ -1,0 +1,31 @@
+*{
+    margin: 0.5ch;
+    padding:0ch;
+}
+.navigation{
+    display:block;
+    justify-content :center;
+    align-items: center;
+    background-color: black;
+    color: blue;
+    align-items: center;
+}
+.navbtn > .navb{
+    padding: 5px;
+    background: yellow;
+    font-size: 20px;
+    cursor: pointer;
+    border: thistle;
+}
+.home{
+    background-color: tomato;
+    padding: 60px;
+    font-size: 50px;
+}
+.photo{
+    background :orange;
+
+}
+.info{
+    background-color: paleturquoise;
+}
